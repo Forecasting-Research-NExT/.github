@@ -1,7 +1,7 @@
 ### Brier Score Results  
 
 **Scope:**  
-- **Questions:** 9,693 PolyMarket True/False & Multiple Choice questions
+- **Questions:** 9,693 Polymarket True/False & Multiple Choice questions
 - **Date Range:** April 2023 to October 2024 (18 months)
 - **Data Set Link:** https://examplebucketedge.s3.us-east-2.amazonaws.com/polymarket_dataset.csv
 
