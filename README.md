@@ -15,4 +15,4 @@
 - **Model:** One LLama 3 8B Instruct instance  
 - **Model Link:** [Hosted on Replicate](https://replicate.com/meta/meta-llama-3-8b-instruct)  
 - **Knowledge Cutoff:** March 2023  
-- **Outcome:**  
+- **Outcome:** 0.5625
