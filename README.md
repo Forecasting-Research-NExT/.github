@@ -13,14 +13,14 @@
 
 **System 1:**  
 - **Outcome:** Brier Score of **0.5625**
-- **Technology:** One LLama 3 8B Instruct instance
+- **Technology:** One "LLama 3 8B Instruct" instance
 - **Knowledge Cutoff:** March 2023
 - **Model Link:** [Hosted on Replicate](https://replicate.com/meta/meta-llama-3-8b-instruct)  
 - **System Codebase:** [Github Link](https://github.com/Forecasting-Research-NExT/testing_framework_system_one)
 
 **System 2:**  
 - **Outcome:** Brier Score of **0.36**
-- **Technology:** One LLama 3 8B Instruct instance of a Director Agent, with an infinite number of Specialist Agents (more LLama 3 8B Instruct instances) to answer specific subquestions, to help the Director Agent answer the original question
+- **Technology:** One "LLama 3 8B Instruct" instance of a Director Agent, with an infinite number of Specialist Agents (more LLama 3 8B Instruct instances) to answer specific subquestions, to help the Director Agent answer the original question
 - **Knowledge Cutoff:** March 2023
 - **Model Link:** [Hosted on Replicate](https://replicate.com/meta/meta-llama-3-8b-instruct)  
 - **System Codebase:** [Github Link](https://github.com/Forecasting-Research-NExT/testing_framework_system_two)  
