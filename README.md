@@ -20,7 +20,7 @@
 
 **System 2:**  
 - **Outcome:** Brier Score of **0.36**
-- **Technology:** One LLama 3 8B Instruct instance of a Director Agent, with an infinite number of specialist agents (additional LLama 3 8B Instruct instances) to answer specific questions for director
+- **Technology:** One LLama 3 8B Instruct instance of a Director Agent, with an infinite number of specialist agents (additional LLama 3 8B Instruct instances) to answer specific questions for the Director Agent
 - **Knowledge Cutoff:** March 2023
 - **Model Link:** [Hosted on Replicate](https://replicate.com/meta/meta-llama-3-8b-instruct)  
 - **System Codebase:** [Github Link](https://github.com/Forecasting-Research-NExT/testing_framework_system_two)  
