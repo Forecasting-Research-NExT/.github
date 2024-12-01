@@ -9,7 +9,7 @@
 - **0.0 (Lowest Brier Score):** Represents perfect accuracy where probabilities match the actual outcomes.  
 - **1.0 (Highest Brier Score):** Represents completely inaccurate probabilistic predictions.
 
-**Evaluation Steps (Important):**  
+**Evaluation (Important):**  
 - **System Evaluation Link:** [Uses 9,693 Questions](https://nextforecasting.co)  
 
 ---
