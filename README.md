@@ -10,7 +10,7 @@
 - **1.0 (Highest Brier Score):** Represents completely inaccurate probabilistic predictions.
 
 **Evaluation (Important):**  
-- **System Evaluation Link:** [Uses 9,693 Questions](https://nextforecasting.co)  
+- **System Evaluation Link:** [Uses 9,693 Questions on https://colintheadmin.com](https://colintheadmin.com)  
 
 ---
 
@@ -20,7 +20,7 @@
 - **Knowledge Cutoff:** March 2023
 - **Model Link:** [Hosted on Replicate](https://replicate.com/meta/meta-llama-3-8b-instruct)  
 - **System Codebase:** [Github Link](https://github.com/Forecasting-Research-NExT/testing_framework_system_one)
-- **Endpoint Link:** [AWS Apprunner](https://zmr2sxvgwz.us-east-2.awsapprunner.com)
+- **Endpoint Link:** [https://zmr2sxvgwz.us-east-2.awsapprunner.com](https://zmr2sxvgwz.us-east-2.awsapprunner.com)
 
 **System 2:**  
 - **Outcome:** Brier Score of **0.36**
