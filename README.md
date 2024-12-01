@@ -10,7 +10,7 @@
 - **1.0 (Highest Brier Score):** Represents completely inaccurate probabilistic predictions.
 
 **Evaluation (Very Important!):**  
-- **System Evaluation Link:** [Uses 9,693 Questions on https://colintheadmin.com](https://colintheadmin.com)  
+- **System Evaluation Link:** [https://colintheadmin.com](https://colintheadmin.com)  
 
 ---
 
