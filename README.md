@@ -13,7 +13,6 @@
 - **System Evaluation Link:** [Uses 9,693 Questions on https://colintheadmin.com](https://colintheadmin.com)  
 
 ---
----
 
 **System 1:**  
 - **Outcome:** Brier Score of **0.5625**
