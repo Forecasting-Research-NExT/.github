@@ -20,7 +20,7 @@
 - **Knowledge Cutoff:** March 2023
 - **Model Link:** [Hosted on Replicate](https://replicate.com/meta/meta-llama-3-8b-instruct)  
 - **System Codebase:** [Github Link](https://github.com/Forecasting-Research-NExT/testing_framework_system_one)
-- **Endpoint Link:** [https://zmr2sxvgwz.us-east-2.awsapprunner.com](https://zmr2sxvgwz.us-east-2.awsapprunner.com)
+- **Endpoint Link:** [https://ptzpqa9nnv.us-east-2.awsapprunner.com](https://ptzpqa9nnv.us-east-2.awsapprunner.com)
 
 **System 2:**  
 - **Outcome:** Brier Score of **0.36**
